@@ -66,7 +66,7 @@ The application was tested for:
 
 ## 📌 Project Status
 
-Completed as part of Task 2 of the Skyrovix Generative AI Internship.
+Completed as part of Task 3 of the Skyrovix Generative AI Internship.
 
 ## 🚀 Future Improvements
 
@@ -81,4 +81,4 @@ Completed as part of Task 2 of the Skyrovix Generative AI Internship.
 
 **Internship:** Generative AI Internship  
 **Organization:** Skyrovix  
-**Task:** Task 2 – AI Resume Assistant
+**Task:** Task 3 – AI Resume Assistant
